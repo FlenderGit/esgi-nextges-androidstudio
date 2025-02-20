@@ -5,6 +5,12 @@ Version 1.0 - Par DELOEIL Tristan
 ## Description
 
 NextGes-AndroidStudio est l'application Web écrite en Kotlin de NextGes. Celle-ci est une application servant d'intranet pour un établissement scolaire. Sur cette application, il est possible de voir ses cours, les notes, les événements à venir sur le campus.
+
+## Preview
+[![The preview](https://img.youtube.com/vi/HS3oDsDSM9o/0.jpg)](https://www.youtube.com/watch?v=HS3oDsDSM9o)
+
+A simple preview to show some app fonctionnalities.
+
 ## Description structure
 
 Ce project utilise l'architecture standardisé de Android Studio pour ce qui touche à la partie design/visuelle. (res/...)
